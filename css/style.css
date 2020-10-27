@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+overflow: hidden;
+}
+.logo{
+width: 20%;
+background-color: indianred;
+float: left;
+height: 100px;
+text-align: center;
+}
+.logo h1{
+padding-top: 30px;
+}
+.banner{
+width: 80%;
+background-color: lightskyblue;
+float: right;
+height: 100px;
+text-align: center;
+}
+.banner h1{
+padding-top: 30px;
+}
+.HeaderBar{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(83, 83, 231);
+}
+.HeaderBar h1{
+    padding-top: 5px;
+}
+.article{
+
+}
+.left{
+width: 20%;
+height: 600px;
+background-color: rgb(240, 240, 134);
+float: left;
+text-align: center;
+}
+.left h1{
+    padding-top: 270px;
+}
+.center{
+width: 60%;
+height: 600px;
+background-color: rgb(129, 85, 4);
+float: left;
+}
+.right{
+width: 20%;
+height: 600px;
+background-color: seagreen;
+float: right;
+text-align: center;
+}
+.right h1{
+    padding-top: 270px;
+}
+.center-top{
+height: 200px;
+background-color: violet;
+text-align: center;
+
+}
+.center-top h1{
+    padding-top: 80px;
+}
+.center-center{
+    height: 200px;
+    background-color: steelblue;
+    overflow: hidden;
+}
+.center-bottom{
+    height: 200px;
+    background-color: palegreen;
+    text-align: center;
+}
+.center-bottom h1{
+    padding-top: 80px;
+}
+.center-left{
+width: 50%;
+height: 100%;
+background-color: rebeccapurple;
+float: left;
+text-align: center;
+}
+.center-left h1{
+    padding-top: 80px;
+}
+.center-right{
+    width: 50%;
+    height: 100%;
+    background-color: royalblue;
+    float: right;
+    text-align: center;
+}
+.center-right h1{
+    padding-top: 80px;
+}
+footer{
+background-color: brown;
+height: 100px;
+text-align: center;
+}
+footer h1{
+color: black;
+}
